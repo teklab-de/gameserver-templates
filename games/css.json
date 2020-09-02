@@ -1,0 +1,20 @@
+{
+"title":"Counter-Strike: Source",
+"info_de":"Keine Infos verfügbar",
+"info_en":"No info available",
+"sname":"css",
+"appid":"232330",
+"steamid":"240",
+"scriptfolder":"game",
+"script":"./srcds_run -game cstrike +map gsmap -maxplayers gsplayer +ip gsip -port gsport +sv_password gspasswd +fps_max \"0\"",
+"serverfile":"css",
+"qstat":"a2s",
+"smap":"de_dust2",
+"map":"1",
+"portstart":"27000",
+"portend":"29000",
+"portstep":"50",
+"updatescript":"./updater.sh steam \"232330\" \"game\"",
+"active":"1",
+"config_version":"1.0"
+}
