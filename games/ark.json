@@ -5,7 +5,7 @@
 "sname":"ark",
 "steamid":"376030",
 "scriptfolder":"game",
-"script":"./start.sh ark gsport gsqueryport gsplayer gsmap"
+"script":"./start.sh ark gsport gsqueryport gsplayer gsmap",
 "serverfile":"ark",
 "qstat":"a2s",
 "queryport":"1",
