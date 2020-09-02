@@ -17,5 +17,5 @@
 "portstep":"50",
 "updatescript":"./updater.sh steam \"376030\" \"game\"",
 "active":"1",
-"template_version":"1.0"
+"config_version":"1.0"
 }
