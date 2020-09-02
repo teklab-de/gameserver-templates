@@ -4,7 +4,7 @@
 
 Created and tested configurations for TekBASE. TekBASE is a server management software for clans, communities and service providers with an online shop, billing system, and reminder system. More information about TekBASE at [TekLab.de](https://teklab.de)
 
-https://images.tekbase.net/www - The website is under development
+https://images.tekbase.net - The website is under development
 
 ## License
 Copyright (c) TekLab.de. Code released under the [GNU AGPLv3 License](https://github.com/teklab-de/tekbase-gameserver-templates/blob/master/LICENSE). The use by other commercial control panel providers is explicitly prohibited.
