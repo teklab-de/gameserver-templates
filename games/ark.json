@@ -1,0 +1,20 @@
+{
+"title":"ARK: Survival Evolved",
+"info_de":"Keine Infos verfügbar",
+"info_en":"No info available",
+"sname":"ark",
+"steamid":"376030",
+"scriptfolder":"game",
+"script":"./start.sh ark gsport gsqueryport gsplayer gsmap"
+"serverfile":"ark",
+"qstat":"a2s",
+"queryport":"1",
+"smap":"TheIsland",
+"map":"1",
+"appid":"346110",
+"portstart":"27000",
+"portend":"29000",
+"portstep":"50",
+"updatescript":"./updater.sh steam \"376030\" \"game\"",
+"active":"1"
+}
