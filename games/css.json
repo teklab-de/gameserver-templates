@@ -1,19 +1,19 @@
 {
 "title":"Counter-Strike: Source",
-"info_de":"Die start.sh liegt unserem Image bei. Falls ein eigenes Image genutzt wird, kann die start.sh hier heruntergeladen werden: <a href=\"https://github.com/teklab-de/tekbase-all-in-one-start\">https://github.com/teklab-de/tekbase-all-in-one-start</a>",
-"info_en":"The start.sh is included in our image. If you use your own image, you can download the start.sh here: <a href=\"https://github.com/teklab-de/tekbase-all-in-one-start\">https://github.com/teklab-de/tekbase-all-in-one-start</a>",
+"info_de":"Keine Infos verfügbar",
+"info_en":"No infos available",
 "sname":"css",
 "appid":"232330",
 "steamid":"240",
 "scriptfolder":"game",
-"script":"./start.sh csgo gsip gsport gsplayer gsmap gspasswd",
+"script":"./srcds_run -game cstrike +map gsmap -maxplayers gsplayer +ip gsip -port gsport +sv_password gspasswd +fps_max \"0\"",
 "serverfile":"css",
 "qstat":"a2s",
 "clanvari":"password=1",
 "smap":"de_dust2",
 "map":"1",
 "stick":"100",
-"passwd":"1",  
+"passwd":"1",
 "hlstats":"1",
 "workshopid":"1",
 "portstart":"25000",
@@ -26,5 +26,5 @@
 "varscriptb":"-nobots",
 "softlimit":"20G",
 "active":"1",
-"config_version":"1.2"
+"config_version":"1.1"
 }
