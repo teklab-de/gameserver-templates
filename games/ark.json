@@ -1,7 +1,7 @@
 {
 "title":"ARK: Survival Evolved",
-"info_de":"Keine Infos verfügbar",
-"info_en":"No info available",
+"info_de":"Die start.sh liegt unserem Image bei. Falls ein eigenes Image genutzt wird, kann die start.sh hier heruntergeladen werden.<br><a href=\"https://github.com/teklab-de/tekbase-all-in-one-start\"></a>",
+"info_en":"The start.sh is included in our image. If you use your own image, you can download the start.sh here.<br><a href=\"https://github.com/teklab-de/tekbase-all-in-one-start\"></a>",
 "sname":"ark",
 "appid":"346110",
 "steamid":"376030",
@@ -18,5 +18,5 @@
 "updatescript":"./updater.sh steam \"376030\" \"game\"",
 "softlimit":"50G",
 "active":"1",
-"config_version":"1.1"
+"config_version":"1.2"
 }
