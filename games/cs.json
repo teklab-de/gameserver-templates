@@ -6,7 +6,7 @@
 "appid":"90",
 "steamid":"10",
 "scriptfolder":"game",
-"script":"'./hlds_run -game cstrike +map gsmap -maxplayers gsplayer +ip gsip -port gsport +sv_password gspasswd",
+"script":"./hlds_run -game cstrike +map gsmap -maxplayers gsplayer +ip gsip -port gsport +sv_password gspasswd",
 "serverfile":"cs",
 "qstat":"a2s",
 "clanvari":"password=1",
@@ -24,5 +24,5 @@
 "varscripta":"-insecure",
 "softlimit":"20G",
 "active":"1",
-"config_version":"1.0"
+"config_version":"1.1"
 }
