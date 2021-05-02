@@ -9,7 +9,7 @@
 {"title":"Counterstrike 1.6","file":"cs","type":"steam","image":"10","check":0},   
 {"title":"Counter-Strike: GO","file":"csgo","type":"steam","image":"730","check":1}, 
 {"title":"Counter-Strike: Source","file":"css","type":"steam","image":"240","check":1},
-{"title":"Counter-Strike: Condition Zero","file":"csz","type":"steam","image":"80","check":0},  
+{"title":"Counter-Strike: Condition Zero","file":"csz","type":"steam","image":"80","check":1},  
 {"title":"Dayz","file":"dayz","type":"steam","image":"221100","check":0},
 {"title":"Left 4 Dead 2","file":"l4d2","type":"steam","image":"550","check":0},
 {"title":"Natural Selection 2","file":"ns2","type":"steam","image":"4920","check":0},  
