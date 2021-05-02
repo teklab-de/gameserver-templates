@@ -7,7 +7,7 @@
 {"title":"Call of Duty: Modern Warfare 3","file":"cod3","type":"steam","image":"115300","check":0},
 {"title":"Conan Exile","file":"conanexiles","type":"steam","image":"440900","check":0},  
 {"title":"Counterstrike 1.6","file":"cs","type":"steam","image":"10","check":0},   
-{"title":"Counter-Strike: GO","file":"csgo","type":"steam","image":"730","check":0}, 
+{"title":"Counter-Strike: GO","file":"csgo","type":"steam","image":"730","check":1}, 
 {"title":"Counter-Strike: Source","file":"css","type":"steam","image":"240","check":1},
 {"title":"Counter-Strike: Condition Zero","file":"csz","type":"steam","image":"80","check":0},  
 {"title":"Dayz","file":"dayz","type":"steam","image":"221100","check":0},
