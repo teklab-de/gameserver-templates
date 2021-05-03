@@ -15,7 +15,7 @@
 "portstart":"25000",
 "portend":"30000",
 "portstep":"50",
-"updatescript":"./updater.sh steam \"376030\" \"game\"",
+"updatescript":"./updater.sh steam 376030 game",
 "softlimit":"50G",
 "active":"1",
 "config_version":"1.2"
