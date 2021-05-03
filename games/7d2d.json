@@ -1,0 +1,20 @@
+{
+"title":"7 Days to Die",
+"info_de":"Keine Infos verfügbar",
+"info_en":"No infos available",
+"sname":"7d2d",
+"appid":"294420",
+"steamid":"251570",
+"scriptfolder":"game",
+"script":"./start.sh 7d2d gsip gsport gsplayer",
+"serverfile":"7d2d",
+"qstat":"a2s",
+"queryport":"1",
+"portstart":"25000",
+"portend":"30000",
+"portstep":"50",
+"updatescript":"./updater.sh steam 294420 game",
+"softlimit":"20G",
+"active":"1",
+"config_version":"1.0"
+}
