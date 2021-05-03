@@ -1,7 +1,7 @@
 {
 "title":"7 Days to Die",
-"info_de":"Keine Infos verfügbar",
-"info_en":"No infos available",
+"info_de":"Die start.sh liegt unserem Image bei. Falls ein eigenes Image genutzt wird, kann die start.sh hier heruntergeladen werden: <a href=\"https://github.com/teklab-de/tekbase-all-in-one-start\">https://github.com/teklab-de/tekbase-all-in-one-start</a>",
+"info_en":"The start.sh is included in our image. If you use your own image, you can download the start.sh here: <a href=\"https://github.com/teklab-de/tekbase-all-in-one-start\">https://github.com/teklab-de/tekbase-all-in-one-start</a>",
 "sname":"7d2d",
 "appid":"294420",
 "steamid":"251570",
