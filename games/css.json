@@ -19,7 +19,7 @@
 "portstart":"25000",
 "portend":"30000",
 "portstep":"50",
-"updatescript":"./updater.sh steam \"232330\" \"game\"",
+"updatescript":"./updater.sh steam 232330 game",
 "varnamea":"VAC off",
 "varscripta":"-insecure",
 "varnameb":"No bots",
