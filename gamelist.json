@@ -31,6 +31,7 @@
 {"title":"Counter-Strike: Condition Zero","os":"both","file":"csz","type":"steam","image":"80","check":1}, 
 {"title":"Counter-Strike: Global Offensive","os":"both","file":"csgo","type":"steam","image":"730","check":1}, 
 {"title":"Counter-Strike: Source","os":"both","file":"css","type":"steam","image":"240","check":1},
+  {"title":"Cube 2: Saubraten","os":"linux","file":"css","type":"file","image":"cube2saubraten.jpg","check":0}, 
 {"title":"D.I.P.R.I.P.","os":"windows","file":"diprip","type":"steam","image":"17530","check":0},
 {"title":"Dark Horizons: Mechanized Corps","os":"linux","file":"darkhmc","type":"steam","image":"266470","check":0},
 {"title":"Dark Messiah of Might & Magic","os":"windows","file":"darkmessiahomm","type":"steam","image":"2100","check":0},
