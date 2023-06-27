@@ -48,6 +48,7 @@
 {"title":"Eden Star","os":"windows","file":"edenstar","type":"steam","image":"259570","check":0},
 {"title":"Empires","os":"windows","file":"empires","type":"steam","image":"608580","check":0},
 {"title":"Eternal Silence","os":"windows","file":"eternalsilence","type":"steam","image":"17550","check":0},
+{"title":"Euro Trucker Simulator 2","os":"linux","file":"ets2","type":"steam","image":"1948160","check":0},
 {"title":"E.Y.E.","os":"windows","file":"eye","type":"steam","image":"91700","check":0},
 {"title":"Fistfull of Frags","os":"linux","file":"fistfullof","type":"steam","image":"265630","check":0},
 {"title":"Fortress Forever","os":"windows","file":"fortressforever","type":"steam","image":"253530","check":0},
